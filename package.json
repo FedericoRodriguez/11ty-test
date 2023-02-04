@@ -4,6 +4,8 @@
   "description": "test eleventy",
   "main": "index.js",
   "scripts": {
+    "start": "eleventy --serve",
+    "build":"eleventy",
     "test": "test"
   },
   "author": "FedericoRodriguez",
